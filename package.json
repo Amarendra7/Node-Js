@@ -1,0 +1,19 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Notes Regarding Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amarendra7/Node-Js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amarendra7/Node-Js/issues"
+  },
+  "homepage": "https://github.com/Amarendra7/Node-Js#readme"
+}
